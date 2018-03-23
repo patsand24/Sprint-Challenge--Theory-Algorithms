@@ -24,3 +24,10 @@ function maxValue(arr) {
    return maxDifference;
 }
 ```
+
+- b) Most likely would use some sort of binary searchs starting the process at n/2 floor. If it doesn't break go higher, then if it breaks move to lower floors (i.e. binary type search) and eventually the floor will be found.
+
+### Excercise III.
+
+- a)
+- b)
